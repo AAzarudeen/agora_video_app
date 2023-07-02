@@ -1,5 +1,3 @@
-import AgoraRTC from "agora-rtc-sdk-ng"
-
 let options =
 {
     // Pass your App ID here.
