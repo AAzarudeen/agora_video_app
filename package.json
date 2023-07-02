@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "vite",
+    "start": "concurrently \"npm i & npm run start\"",
     "build": "vite build",
     "preview": "vite preview"
   },
