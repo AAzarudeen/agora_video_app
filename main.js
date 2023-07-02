@@ -1,4 +1,4 @@
-import AgoraRTC from "agora-rtc-sdk-ng"
+// import AgoraRTC from "agora-rtc-sdk-ng"
 
 let options =
 {
@@ -11,6 +11,9 @@ let options =
     // Set the user ID.
     uid: prompt("Enter your name"),
 };
+
+
+console.log(options.uid)
 
 // let channelParameters =
 // {
