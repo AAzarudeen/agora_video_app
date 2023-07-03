@@ -5,7 +5,8 @@ let options =
     // Set the channel name.
     channel: 'cloud',
     // Pass your temp token here.
-    token: '007eJxTYFiy9t2yhUdfJETOcPv8VHnZwlv/bj2zmVChs9mn5IjJ//tXFRiMzVNTjQwTzVJTUyxMDFNMLRLNgDAtzdDIKMXQ1DxlY/GilIZARoY9SjNYGRkgEMRnZUjOyS9NYWAAAAqoJPs=',
+    // 007eJxTYHDNKGiuNA/gextYWlBSzrA92Xj3kcq+dJu1JxTXt3SdzlBgMDZPTTUyTDRLTU2xMDFMMbVINAPCtDRDI6MUQ1PzlOa6RSkNgYwMb5/4sjAyQCCIz8qQnJNfmsLAAAA1fiAF
+    token: '007eJxTYHDNKGiuNA/gextYWlBSzrA92Xj3kcq+dJu1JxTXt3SdzlBgMDZPTTUyTDRLTU2xMDFMMbVINAPCtDRDI6MUQ1PzlOa6RSkNgYwMb5/4sjAyQCCIz8qQnJNfmsLAAAA1fiAF',
     // Set the user ID.
     uid: prompt("Enter your name"),
 };
