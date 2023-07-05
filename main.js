@@ -1,14 +1,15 @@
+import generateRtcToken from './app.js'
+
 let options =
 {
-    // Pass your App ID here.
+    
     appId: '37ee21a6eed841d58a6a6aff122d157d',
-    // Set the channel name.
-    channel: 'cloud',
-    // Pass your temp token here.
-    // 007eJxTYHDNKGiuNA/gextYWlBSzrA92Xj3kcq+dJu1JxTXt3SdzlBgMDZPTTUyTDRLTU2xMDFMMbVINAPCtDRDI6MUQ1PzlOa6RSkNgYwMb5/4sjAyQCCIz8qQnJNfmsLAAAA1fiAF
-    token: '007eJxTYHDNKGiuNA/gextYWlBSzrA92Xj3kcq+dJu1JxTXt3SdzlBgMDZPTTUyTDRLTU2xMDFMMbVINAPCtDRDI6MUQ1PzlOa6RSkNgYwMb5/4sjAyQCCIz8qQnJNfmsLAAAA1fiAF',
-    // Set the user ID.
-    uid: prompt("Enter your name"),
+    
+    channel: 'channel',
+    
+    uid: '',
+
+    token: '007eJxTYAhZPlvc2ME0okSfSdu649qM7pprIse19qcE55yKkq26vkaBwdg8NdXIMNEsNTXFwsQwxdQi0QwI09IMjYxSDE3NUxZELE1pCGRkKHnxipmRAQJBfHaG5IzEvLzUHAYGAB4DH+I='
 };
 
 
