@@ -1,4 +1,4 @@
-import generateRtcToken from './app.js'
+import AgoraRTC from "agora-rtc-sdk-ng"
 
 let options =
 {
