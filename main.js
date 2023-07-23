@@ -5,11 +5,11 @@ let options =
     
     appId: '37ee21a6eed841d58a6a6aff122d157d',
     
-    channel: 'channel',
+    channel: 'docty',
     
     uid: '',
 
-    token: '007eJxTYAhZPlvc2ME0okSfSdu649qM7pprIse19qcE55yKkq26vkaBwdg8NdXIMNEsNTXFwsQwxdQi0QwI09IMjYxSDE3NUxZELE1pCGRkKHnxipmRAQJBfHaG5IzEvLzUHAYGAB4DH+I='
+    token: '007eJxTYGB/2r/FIFraeu3p1Zcu/18w7xQb29M0qxkRm+76zFBMc5dUYDA2T001Mkw0S01NsTAxTDG1SDQDwrQ0QyOjFENT85Si0L0pDYGMDOrHQxkZGSAQxGdlSMlPLqlkYAAAj5EgFg=='
 };
 
 
