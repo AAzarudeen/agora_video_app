@@ -1,9 +1,7 @@
-// import AgoraRTC from "./AgoraRTC_N-4.18.0"
-
 let options =
 {
     
-    appId: '37ee21a6eed841d58a6a6aff122d157d',
+    appId: '8fc993637fca4d6187b5479ab929d54c',
     
     channel: 'docty',
     
